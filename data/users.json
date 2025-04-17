@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Aditya Dubey",
+    "college": "vesit",
+    "username": "aditya12",
+    "password": "$2b$10$Hsi4vbniKi.M2Jmyk9zwEuvko7DYJDYy8/1KoMfEYr7OIlmxSR9wy",
+    "created_at": "2025-04-17T03:43:09.069Z"
+  },
+  {
+    "name": "alok",
+    "college": "vesit",
+    "username": "aloky",
+    "password": "$2b$10$zH7oHWIxL7SKfWvQ1GfudORPZTNCg0kZwxCEMdFkbhT3WbasdUEnC",
+    "created_at": "2025-04-17T03:43:52.898Z"
+  },
+  {
+    "name": "student",
+    "college": "vesit",
+    "username": "newStudent",
+    "password": "$2b$10$bQb6DkV1ObX20jrHzVExfOqX/PU.pmiblfFjDpfIjVhABiIbW24xu",
+    "created_at": "2025-04-17T03:44:20.996Z"
+  },
+  {
+    "name": "teacher",
+    "college": "Harvard University",
+    "username": "teacherr",
+    "password": "$2b$10$azRi8rJ5gDGh/q7z0KYp5.oHl.h5HWaDgXH7bfuEMn0EbONLi6qn2",
+    "created_at": "2025-04-17T03:44:46.800Z"
+  }
+]
